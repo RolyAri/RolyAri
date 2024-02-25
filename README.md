@@ -80,10 +80,10 @@
 <h3 align="center">Preferred IDEs  & Tools :</h3>
 <p align="center"> 
   <!--  <img src="https://img.shields.io/badge/eclipse-2C2255.svg?style=for-the-badge&logo=eclipse&logoColor=white" alt="eclipse IDE"/> -->
+  <img src="https://img.shields.io/badge/jetbrains%20IDE-000000.svg?style=for-the-badge&logo=jetbrains&logoColor=white" alt="jetbrains" />
   <img src="https://img.shields.io/badge/netbeans-1B6AC6.svg?style=for-the-badge&logo=apachenetbeanside&logoColor=white" alt="Netbeans IDE"/> 
   <img src="https://img.shields.io/badge/vscode-007ACC.svg?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="vsCode"/>
   <img src="https://img.shields.io/badge/visual%20studio-5C2D91.svg?style=for-the-badge&logo=visualstudio&logoColor=white" alt="vsCode"/>
-  <img src="https://img.shields.io/badge/jetbrains%20IDE-000000.svg?style=for-the-badge&logo=jetbrains&logoColor=white" alt="jetbrains" />
   <img src="https://img.shields.io/badge/postman-FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white" alt="postman"/>
   <img src="https://img.shields.io/badge/virtualbox-183A61.svg?style=for-the-badge&logo=virtualbox&logoColor=white" alt="virtualbox"/>
   <img src="https://img.shields.io/badge/ubuntu-E95420.svg?style=for-the-badge&logo=ubuntu&logoColor=white" alt="ubuntu"/>
