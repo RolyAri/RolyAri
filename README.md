@@ -24,7 +24,7 @@
   <img src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap">
   <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailwindCSS">
   <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript">
-  <img src="https://img.shields.io/badge/typescript-%233178C6.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="TypeScript">
+  <img src="https://img.shields.io/badge/typescript-white.svg?style=for-the-badge&logo=javascript&logoColor=%233178C6" alt="TypeScript">
 </p>
 
 <h3 align="center">Backend</h3>
