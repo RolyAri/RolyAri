@@ -12,10 +12,8 @@
 
 <h3 align="center">Languages</h3>
 <p align="center">
-  <a href="https://www.java.com" target="_blank"> 
-    <img src="https://img.shields.io/badge/Java-F89820.svg?style=for-the-badge&logo=java&logoColor=white" 
-      alt="java"/> 
-  </a>
+  [Java](https://img.shields.io/badge/Java-%23F89820.svg?style=for-the-badge&logo=java&logoColor=white).
+  ![SpringBoot](https://img.shields.io/badge/Spring%20Boot-%236DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white)
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
     <img src="https://img.shields.io/badge/Javascript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black"
       alt="javascript"/> 
