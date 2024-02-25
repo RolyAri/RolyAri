@@ -46,7 +46,7 @@
 </p>
 <h3 align="center">Cloud & Hosting:</h3>
 <p align="center">
-  <img  src="https://img.shields.io/badge/GitHub%20Pages-222222?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="GithubPages"> 
+  <img  src="https://img.shields.io/badge/GitHub%20Pages-222222?style=for-the-badge&logo=githubpages&logoColor=white" alt="GithubPages"> 
   <a href="https://azure.microsoft.com/en-in/" target="_blank">
     <img  src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="azure"/> 
   </a>
