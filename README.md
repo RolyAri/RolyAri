@@ -1,7 +1,6 @@
-### Hi I'm Roly 👋
+### Hola, soy Roly 👋
 # 💫 About Me:
-🚀 Journeying Through: Currently diving deep into the freeCodeCamp ocean..<br>🌐 Team Ups: Open to collaboration! Frontend? Backend? Let's explore both universes.<br>📘 Current Quest: Harnessing the power of React, but feeling the allure of the backend mysteries.<br>🔍 My Specialty: Bridging the gap between frontend flair and backend brains. Curious about the blend? Let's chat!<br>🌟 Did You Know?: They say I'm 'lazy', but I have a knack for getting things done in style.
-
+🚀 Explorando: Navegando por el vasto mundo del desarrollo web, con especial enfoque en tecnologías frontend y Backend<br>🌐 Colaboraciones: ¡Abierto a colaborar en proyectos! ¿Frontend? ¿Backend? ¡Exploremos juntos estas dimensiones!<br>📘 Mis Metas Actuales: Sumergiéndome en el mundo de la inteligencia artificial y el aprendizaje automático mientras perfecciono mis habilidades en desarrollo de software.<br>🔍 Especialidad: Conectando la elegancia del diseño frontend con la robustez del backend. ¿Interesado en esta sinergia? ¡Hablemos!<br>🌟 ¿Sabías qué?: Algunos me llaman 'perfeccionista', pero siempre encuentro la manera de alcanzar resultados impecables.
 
 ----
 # 💻 Tech Stack:
