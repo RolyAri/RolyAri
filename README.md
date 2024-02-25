@@ -42,7 +42,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/postgreSQL-4169E1.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="postgresql">
   <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white">
-  <img src="https://img.shields.io/badge/microsoftsqlserver-CC2927.svg?style=for-the-badge&logo=microsoftsqlserver&logoColor=white">
+  <img src="https://img.shields.io/badge/microsoft%20sql%20server-CC2927.svg?style=for-the-badge&logo=microsoftsqlserver&logoColor=white">
   <a href="https://www.sqlite.org/" target="_blank"> 
     
       alt="sqlite"/> 
