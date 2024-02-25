@@ -4,7 +4,7 @@
 
 
 ----
-# 💻 Tech Stack:
+💻 Tech Stack:
 
 <h3 align="center">Languages</h3>
 <p align="center">
